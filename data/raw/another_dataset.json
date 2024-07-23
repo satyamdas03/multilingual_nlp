@@ -1,0 +1,26 @@
+[
+    {
+        "text": "This is a beautiful day.",
+        "label": "positive"
+    },
+    {
+        "text": "I am feeling sad today.",
+        "label": "negative"
+    },
+    {
+        "text": "The weather is gloomy and depressing.",
+        "label": "negative"
+    },
+    {
+        "text": "I love spending time with my family.",
+        "label": "positive"
+    },
+    {
+        "text": "Work has been very stressful lately.",
+        "label": "negative"
+    },
+    {
+        "text": "I just got a promotion at work!",
+        "label": "positive"
+    }
+]
