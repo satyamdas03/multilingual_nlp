@@ -1,0 +1,14 @@
+data:
+  raw_data_path: "../data/raw/dataset.csv"
+  processed_data_path: "../data/processed/"
+
+model:
+  model_name: "xlm-roberta-base"
+  output_dir: "../models"
+  num_labels: 2
+
+training:
+  learning_rate: 2e-5
+  batch_size: 16
+  num_epochs: 3
+  weight_decay: 0.01
