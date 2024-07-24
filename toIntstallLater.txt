@@ -1,0 +1,1 @@
+pyyaml = "==5.4.1"  # Use an older version known to work without PEP 517 issues
