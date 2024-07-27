@@ -1,4 +1,4 @@
-/data/processed
+# /data/processed
 /models
 __pycache__
 *.pyc
